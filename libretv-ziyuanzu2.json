@@ -1,0 +1,40 @@
+{
+    "name": "LibreTV-SourceList",
+    "version": 2,
+    "exportedAt": 1792384320429,
+    "sources": [
+        {
+            "name": "光速",
+            "url": "https://api.guangsuapi.com/api.php/provide/vod"
+        },
+        {
+            "name": "暴风",
+            "url": "https://bfzyapi.com/api.php/provide/vod"
+        },
+        {
+            "name": "极速",
+            "url": "https://jszyapi.com/api.php/provide/vod"
+        },
+        {
+            "name": "155",
+            "url": "https://155api.com/api.php/provide/vod"
+        },
+        {
+            "name": "最大",
+            "url": "http://zuidazy.me/api.php/provide/vod"
+        },
+        {
+            "name": "红牛",
+            "url": "http://hongniuzy2.com/api.php/provide/vod"
+        },
+        {
+            "name": "豪华",
+            "url": "https://haohuazy.com/api.php/provide/vod"
+        },
+        {
+            "name": "乐播",
+            "url": "https://lbapi9.com/api.php/provide/vod"
+        }
+    ],
+    "liveSources": []
+}
